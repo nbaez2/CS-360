@@ -1,1 +1,1 @@
-# CS-360 - Mobile Architecture & Design
+# CS-360 - Mobile Architecture & Programming
